@@ -51,7 +51,7 @@ whenm you start the project this will be the first view
 
 since is a protected view example, not user is used here, just click login, and this will take you this view
 
-[![marvelView](public/Screenshots/MarvelView.PNG)]()
+[![marvelView](public/Screenshots/marvelView.PNG)]()
 
 you can change [here](src/components/login/LoginScreen.jsx) just change 'Displayed name' to your name
 
