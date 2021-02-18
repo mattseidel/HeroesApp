@@ -33,7 +33,7 @@ if you get the current version the installation was successful
 
 ### Installing
 
-Once repocitory download
+Once repository download
 
 ```
 npm install
@@ -57,7 +57,7 @@ since is a protected view example, not user is used here, just click login, and 
 
 you can change [here](src/components/login/LoginScreen.jsx) just change 'Displayed name' to your name
 
-you can search data about your favorite hero on search page,
+you can search data about your favorite hero on the search page,
 [![searchView](public/Screenshots/searchView.PNG)]()
 
 and for last, Logout and login again! the application know what was the last page you visited or tried to visit, and after login, you will be redirected to there
