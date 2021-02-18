@@ -23,11 +23,13 @@ git pull https://github.com/mattseidel/HeroesApp
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+[Node.js](https://nodejs.org/es/download/)
 
+once downloaded just open your terminal and type
 ```
-Give examples
+node -v
 ```
+if you get the current version the installation was successful
 
 ### Installing
 
