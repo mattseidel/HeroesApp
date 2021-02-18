@@ -45,7 +45,7 @@ npm start
 
 ## Usage <a name = "usage"></a>
 
-whenm you start the project this will be the first view
+when you start the project this will be the first view
 
 [![mainView](public/Screenshots/mainView.PNG)]()
 
