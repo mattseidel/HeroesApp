@@ -1,6 +1,6 @@
 # heroes-app
 
-on live version [![here][https://heroes-app-ten.vercel.app/login]]()
+on live version [here](https://heroes-app-ten.vercel.app/login)
 
 ## Table of Contents
 
@@ -47,15 +47,15 @@ npm start
 
 whenm you start the project this will be the first view
 
-[![mainView](public/Screenshots/main view.PNG)]()
+[![mainView](public/Screenshots/mainView.PNG)]()
 
 since is a protected view example, not user is used here, just click login, and this will take you this view
 
-[![marvelView](public/Screenshots/Marvel view.PNG)]()
+[![marvelView](public/Screenshots/MarvelView.PNG)]()
 
-you can change [![here](src/components/login/LoginScreen.jsx)]() just change 'Displayed name' to your name
+you can change [here](src/components/login/LoginScreen.jsx) just change 'Displayed name' to your name
 
 you can search data about your favorite hero on search page,
-[![searchView](public/Screenshots/search view.PNG)]()
+[![searchView](public/Screenshots/searchView.PNG)]()
 
 and for last, Logout and login again! the application know what was the last page you visited or tried to visit, and after login, you will be redirected to there
